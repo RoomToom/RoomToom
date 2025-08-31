@@ -20,9 +20,7 @@ A credit system built using FastAPI for handling financial transactions and user
 ## 📜 Certifications
 - [The Complete Python Bootcamp](https://www.udemy.com/certificate/UC-7acf9530-d55d-43e3-aef1-da5f71e92190/)
 - [The Web Developer Bootcamp](https://www.udemy.com/certificate/UC-1cc9cf5a-9338-4dad-8ee1-5f63de53b53e/)
+- [C++ Programming](https://www.udemy.com/certificate/UC-1cc9cf5a-9338-4dad-8ee1-5f63de53b53e/)
 
 ## 🌍 Social Media
 - [LinkedIn](https://www.linkedin.com/in/roman-tokarchuk/)
-
-## 📬 Contact Me
-- **Telegram:** +380982744088
